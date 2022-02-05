@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: evilpandas/jenkins-test:
+      - image: evilpandas/jenkins-test:f3111cf56c
         name: flaskdemo
         resources: {}
 status: {}
